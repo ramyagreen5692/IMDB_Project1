@@ -10,8 +10,8 @@
     Voting Counts
     Duration
 *    Genre-wise Storage: Save extracted data as individual CSV files for each genre like action.csv, adventure.csv, crime.csv, etc,.
-*    Combine Data: Merged all genre-wise CSVs into a single DataFrame named as merged_movies_final.csv.
+*    Combine Data: Merged all genre-wise CSVs into a single DataFrame named as merged_movies_final.csv
 *    SQL Storage: Stored the merged dataset into an SQL database named as IMDB
 
 2.    Created interactive dashboard for real time users using streamlit and python
-*    showcased visualizations, insights, and filtering functionality using Matplotlib and seaborn
+*    showcased visualizations, insights, and filtering functionality using Matplotlib and seaborn.
